@@ -1,7 +1,8 @@
+
 public class Addition {
    public static void main(String[] args) {
 
-      // declare variables
+      // declare variables change
       int num1, num2, sum;
 
       // take two numbers
