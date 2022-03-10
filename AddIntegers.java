@@ -1,18 +1,13 @@
+public class AddIntegers {
 
-public class Addition {
-   public static void main(String[] args) {
+    public static void main(String[] args) {
 
-      // declare variables change
-      int num1, num2, sum;
+        int first = 15;
+        int second = 25;
 
-      // take two numbers
-      num1 = 10;
-      num2 = 20;
+        System.out.println("Enter two numbers: " + first + " " + second);
+        int sum = first + second;
 
-      // calculate sum value
-      sum = num1 + num2;
-
-      // display the sum value
-      System.out.println("Sum = " + sum);
-   }
+        System.out.println("The sum is: " + sum);
+    }
 }
