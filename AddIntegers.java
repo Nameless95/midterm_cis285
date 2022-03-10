@@ -1,13 +1,11 @@
+public class AddIntegers {
 
-public class Addition {
-   public static void main(String[] args) {
+    public static void main(String[] args) {
 
-      // declare variables change
-      int num1, num2, sum;
+        int first = 15;
+        int second = 25;
 
-      // take two numbers
-      num1 = 20;
-      num2 = 30;
+    
 
       // calculate sum value
       sum = num1 + num2;
